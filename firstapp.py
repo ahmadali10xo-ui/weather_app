@@ -14,3 +14,5 @@ print(a/b)
 print(a//b)
 print(a%b)
 print(a**b)
+
+print("Ali"*3)
